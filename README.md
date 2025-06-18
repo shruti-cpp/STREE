@@ -184,7 +184,6 @@ One of Stree's standout features is an interactive map that allows users to pinp
 ## Contributing
 ## Ways to Contribute
 
-- As a first time contributor, navigating through the project, it can be quite daunting for you. Please make sure to go through the [repository structure](#repository-structure) to understand the project a bit better, if you want to understand the project better.
 
 - Open a issue ticket for any gap in documentation or bug or feature requests that you have, opening up issue tickets is always a good way to contribute.
 
@@ -194,7 +193,6 @@ One of Stree's standout features is an interactive map that allows users to pinp
 
 
 Contributions are vital to the open-source community, helping it grow, inspire, and create new possibilities. Any contributions you make are sincerely appreciated.
-If you have ideas on how to improve this project, feel free to fork the repository and submit a pull request. You can also open an issue and tag it as "enhancement." And if you find the project useful, don't forget to give it a star! Thank you for your support!
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -217,61 +215,23 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 
-## Contact
 
-### Team Links
+
+### Contact Info
 <br>
 
-Riya Raj - [Riya Raj](https://linkedin.com/)
+Shruti Jha - [Shruti Jha](https://www.linkedin.com/in/shruti-jha-793248249/)
 
-Profile Link: [https://github.com/RiyaRaj28](https://github.com/RiyaRaj28)
-<br>
+Profile Link: [https://github.com/hruti-cpp](https://github.com/shruti-cpp)
 
-<br>
 
-Imrana Sumbul - [Imrana Sumbul](https://linkedin.com/)
 
-Profile Link:[https://github.com/imranasumbul](https://github.com/imranasumbul)
-
-<br>
-
-Aditi Jogdand - [Aditi Jogdand](https://linkedin.com/)
-
-Profile Link: [https://github.com/ms-solly](https://github.com/ms-solly)
 
 <br>
 <br>
 
 
-<!-- ACKNOWLEDGMENTS -->
- ## Acknowledgments
 
-This is list of resources we found helpful and would like to give credit to. We've included a few to kick things off!
-
-* [React Icons](https://react-icons.github.io/react-icons/search)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> 
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Node.js]: https://img.shields.io/badge/Node-27B800?style=for-the-badge&logo=node.js&logoColor=white
-[Node-url]: https://nodejs.org
 
 ## Licence
 
